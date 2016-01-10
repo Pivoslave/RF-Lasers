@@ -1,0 +1,31 @@
+color.black.name=Black
+color.red.name=Red
+color.green.name=Green
+color.brown.name=Brown
+color.blue.name=Blue
+color.purple.name=Purple
+color.cyan.name=Cyan
+color.silver.name=Light Gray
+color.gray.name=Gray
+color.pink.name=Pink
+color.lime.name=Lime
+color.yellow.name=Yellow
+color.light_blue.name=Light Blue
+color.magenta.name=Magenta
+color.orange.name=Orange
+color.white.name=White
+
+tile.rflasers.lense_imprinter.name=Lense Imprinter
+
+item.rflasers.laser_crystal.name=Colored Crystal
+item.rflasers.laser.name=Mining Laser
+item.rflasers.lense.name=Lense
+
+itemGroup.tabRFLasers=RF Lasers
+
+death.attack.rflasers.laser.player=%2$s shot first at %1$s!
+
+inventory.rflasers.lense_imprinter.info=Imprint an upgrade onto a lense.
+inventory.rflasers.mining_laser.info=Apply a lense to the mining laser.
+
+rflasers.nei.lense_imprinter=Lense Imprinting
