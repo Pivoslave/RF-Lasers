@@ -1,0 +1,31 @@
+color.black.name=Чорний
+color.red.name=Червоний
+color.green.name=Зелений
+color.brown.name=Коричневий
+color.blue.name=Синій
+color.purple.name=Фіолетовий
+color.cyan.name=Бірюзовий
+color.silver.name=Світло-сірий
+color.gray.name=Сірий
+color.pink.name=Рожевий
+color.lime.name=Лаймовий
+color.yellow.name=Жовтий
+color.light_blue.name=Голубий
+color.magenta.name=Пурпурний
+color.orange.name=Помаранчевий
+color.white.name=Білий
+
+tile.rflasers.lense_imprinter.name=Принтер Лінз
+
+item.rflasers.laser_crystal.name=Пофарбований кристал
+item.rflasers.laser.name=Лазер для буріння
+item.rflasers.lense.name=Лінза
+
+itemGroup.tabRFLasers=RF Lasers
+
+death.attack.rflasers.laser.player=%2$s вистрілив першим у %1$s!
+
+inventory.rflasers.lense_imprinter.info=Створити нову лінзу.
+inventory.rflasers.mining_laser.info=Вставити лінзу у лазер.
+
+rflasers.nei.lense_imprinter=Створення лінзи
